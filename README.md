@@ -1,26 +1,39 @@
 # Marketplace
 
-Decentraland's Marketplace
+## Decentraland's Marketplace
 
-## Frontend
+Welcome to the **Decentraland Marketplace**. A React-based static site to explore and interact with the virtual economy of Decentraland. All code for this platform can be found in the respective directories.
 
 [![Coverage Status](https://coveralls.io/repos/github/decentraland/marketplace/badge.svg?branch=master)](https://coveralls.io/github/decentraland/marketplace?branch=master)
 
-The Marketplace is a React static site. Its code can be found under the [/webapp](https://github.com/decentraland/marketplace/tree/master/webapp) directory.
+---
+
+## Frontend
+
+The frontend is a React static site, and you can find the source code in the [/webapp](https://github.com/decentraland/marketplace/tree/master/webapp) directory.
+
+---
 
 ## Backend
 
-It can be found under [/indexer](https://github.com/decentraland/marketplace/tree/master/indexer).
+The backend source code is located under the [/indexer](https://github.com/decentraland/marketplace/tree/master/indexer) directory.
 
-## How to contribute
+---
 
-Contributing to the Marketplace is easy, you just need to go through the following process:
-1. Look for issues in the [Issues tab](https://github.com/decentraland/marketplace/issues) or create a new one with the proposed changes. We classify issues with the “Enhancement”, “Bug” or “Good first issue” tags. Feel free to check one of those first. 
-2. Contact team members via the GitHub issue or use the [Code Contribution Discord channel](https://discord.com/channels/417796904760639509/761599704756256778). It’s important to at least check on the issue status before starting.
-3. [Set up your GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key) and sign all commits in your branch.
-4. Read the [testing standards](https://www.notion.so/Testing-standards-46797744fccf4f3eba52335f9866d0eb) and the [coding standards](https://www.notion.so/decentraland/dApps-Standards-760ee6551c9f4c00aa71f7d9c50a7646?pvs=4#eddf8435097543778b8faa2e7fc46c88) to produce code that fits the project standards.
-5. Create a PR with the changes, linking the PR to the created issue. If there are visual changes in the PR, attach images.
+## How to Contribute
+
+Contributing to the Marketplace is simple. Just follow these steps:
+
+1. Browse the [Issues tab](https://github.com/decentraland/marketplace/issues) for existing issues or create a new one with the proposed changes. We classify issues with the labels “Enhancement”, “Bug” or “Good first issue”. We recommend starting with these!
+2. Contact the team via the GitHub issue or join the [Code Contribution Discord channel](https://discord.com/channels/417796904760639509/761599704756256778) for support. Always check the status of an issue before starting.
+3. [Set up your GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key) and ensure all commits are signed in your branch.
+4. Follow the [testing standards](https://www.notion.so/Testing-standards-46797744fccf4f3eba52335f9866d0eb) and the [coding standards](https://www.notion.so/decentraland/dApps-Standards-760ee6551c9f4c00aa71f7d9c50a7646?pvs=4#eddf8435097543778b8faa2e7fc46c88) to make sure your code aligns with the project's quality.
+5. Create a Pull Request (PR) with your changes, linking it to the issue. If your PR includes visual changes, be sure to attach relevant images.
+
+---
 
 ## Copyright & License
 
-This repository is protected with a standard Apache 2 license. See the terms and conditions in the [LICENSE](https://github.com/decentraland/marketplace/blob/master/LICENSE) file.
+This repository is under the standard Apache 2 license. Please refer to the [LICENSE](https://github.com/decentraland/marketplace/blob/master/LICENSE) file for full terms and conditions.
+
+---
